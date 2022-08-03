@@ -1,3 +1,2 @@
-# demo-Shoppe
-DEMO SHOPPE
-NOT RESPONSIVE
+https://congtu01.github.io/demo-Shoppe/
+
